@@ -6,3 +6,7 @@ body{
     padding: 2px;
     background-color: blueviolet;
 }
+#btn{
+    background: red;
+    border: 2px solid greenyellow;
+}
